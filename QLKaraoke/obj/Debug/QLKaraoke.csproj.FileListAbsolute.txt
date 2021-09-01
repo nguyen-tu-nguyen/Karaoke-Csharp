@@ -1,0 +1,1 @@
+N:\Nguyen\Lý thuyết\Năm 3_1\CNN\NopDACNNET_QuanLyKaraoke_CT3\DoAnCNNET_QuanLyKaraoke_CT3\QLQuanKaraoke\QLKaraoke\bin\Debug\QLKaraoke.exe.config
